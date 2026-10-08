@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notes_title">Notes</string>
+    <string name="notes_subtitle">Keep your thoughts organized</string>
+
+    <string name="search_notes_hint">Search notes...</string>
+    <string name="recent_notes">Recent Notes</string>
+
+    <string name="new_note">New Note</string>
+    <string name="edit_note_screen_title">Edit Note</string>
+
+    <string name="empty_notes_title">No notes yet</string>
+    <string name="empty_notes_message">Create your first note to get started.</string>
+
+    <string name="no_matching_notes_title">No matching notes</string>
+    <string name="no_matching_notes_message">Try a different search term.</string>
+
+    <string name="edit_note">Edit</string>
+    <string name="delete_note">Delete</string>
+
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Write your note here...</string>
+
+    <string name="note_title_placeholder">Untitled Note</string>
+    <string name="note_content_placeholder">No content</string>
+
+    <string name="save_note">Save Note</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="note_date_content_description">Note date</string>
+
+    <string name="note_validation_error">Please enter a title or note content.</string>
+
+    <string name="delete_note_title">Delete Note?</string>
+    <string name="delete_note_message">Are you sure you want to permanently delete this note?</string>
+    <string name="delete_confirmation">Delete</string>
+    <string name="note_deleted">Note deleted.</string>
+
+</resources>
